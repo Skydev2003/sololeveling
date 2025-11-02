@@ -8,7 +8,6 @@ class AppTheme {
       colorScheme: base.colorScheme.copyWith(
         primary: const Color(0xFF6D28D9), // indigo/purple
         secondary: const Color(0xFF7C3AED),
-        background: const Color(0xFF0B0217),
         surface: const Color(0xFF12081A),
       ),
       scaffoldBackgroundColor: const Color(0xFF0B0217),
